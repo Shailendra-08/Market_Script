@@ -4,7 +4,14 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 # 🔑 Replace this with your actual Telegram Bot Token
-TOKEN = "7596750085:AAEH-sH5SFxJZMxx8aAEMqRbQI47I9a-68w"
+# TOKEN = "7596750085:AAEH-sH5SFxJZMxx8aAEMqRbQI47I9a-68w"
+
+# new token
+TOKEN = "7596750085:AAG9tJ_Mtor6g8FqHjXZWjHG3xhLyotFJmc"
+
+
+
+# 7596750085:AAG9tJ_Mtor6g8FqHjXZWjHG3xhLyotFJmc
 
 class OptionChainAnalyzer:
     def __init__(self):
